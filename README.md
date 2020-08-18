@@ -17,12 +17,43 @@
 Application to store repositories, which allows the creation, listing, updating and removal of repositories and, in addition, allows the repositories to receive likes.
 
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+
+
+## 🛰 Como rodar o projeto
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como _VSCode_
+
+## Rodando o Projeto
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/IgorCastromann/Desafio02-Mod01-GoStack
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Desafio02-Mod01-GoStack
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+
+# A aplicação será aberta na porta:3333 - acesse http://localhost:3333
+```
+Testes visuais realizados através do [Insomnia](https://insomnia.rest/)
+
 ## 🙌 Agradecimentos
 
 - [Time da RocketSeat](https://rocketseat.com.br/)
-- [Curtis Young, Referência de README] (https://github.com/CurtisYoung)
-- [Stefano Saffran, Referência de README] (https://github.com/StefanoSaffran)
-
 
 ## :mailbox_with_mail: Get in touch!
 
