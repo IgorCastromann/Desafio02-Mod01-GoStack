@@ -22,7 +22,7 @@
 </p>
 
 
-## :computer: Projeto 
+## 💻 Projeto 
 
 
 Aplicação para armazenar repositórios, no qual permite a criação, listagem, atualização e remoção de repositórios e, em adição, permite que os repositórios recebam likes.
