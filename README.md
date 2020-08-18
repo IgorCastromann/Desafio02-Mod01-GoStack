@@ -1,20 +1,31 @@
 <img alt="GoStack" src="https://res.cloudinary.com/stefanosaffran/image/upload/v1586943536/d32tomvl6x8onypta01h.png" />
 
 <h3 align="center">
-  Challenge 02 - Node.js concepts.
+  Desafio 02 - Node.js conceitos.
 </h3>
+
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Como rodar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-agradecimentos">Agradecimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 <blockquote align="center">been there, done that!</blockquote>
 
 <p align="center">
-  <a href="stefanosaffran.com">
-    <img alt="Made by Igor Castro" src="https://img.shields.io/badge/made%20by-Igor Castro-%2304D361">
-  </a>
+  <a> </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/IgorCastromann/Desafio02-Mod01-GoStack?color=2304D361">
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/IgorCastromann/Desafio02-Mod01-GoStack?color=2304D361">
+  <img alt="Made by Igor Castro" src="https://img.shields.io/badge/made%20by-Igor Castro-%20?color=2304D361">
+  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/IgorCastromann/Desafio02-Mod01-GoStack?color=2304D361">
 </p>
 
-## :computer: Project 
 
-Application to store repositories, which allows the creation, listing, updating and removal of repositories and, in addition, allows the repositories to receive likes.
+## :computer: Projeto 
+
+
+Aplicação para armazenar repositórios, no qual permite a criação, listagem, atualização e remoção de repositórios e, em adição, permite que os repositórios recebam likes.
 
 
 ## 🚀 Tecnologias
